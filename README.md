@@ -60,6 +60,7 @@ You can learn and start programming professionally at any age. You're likely to 
 
 Summarized the key findings and insights uncovered from the Stack Overflow Developer Survey data.
 Emphasized the importance of understanding these insights for developers, companies, and the tech industry as a whole.
+
 Exploratory Data Analysis (EDA) is vital for data-driven decision-making because it helps understand, clean, and derive insights from data, identifies trends and patterns, validates assumptions, reduces risks, supports hypothesis generation, and facilitates clear communication, ultimately leading to more informed and effective decisions.
 
 
@@ -72,7 +73,7 @@ Exploratory Data Analysis (EDA) is vital for data-driven decision-making because
 
 
 
-****************************************************************************************************************************************************************************************************************
+********************************************************************************************************************************************************************
 
 
 
