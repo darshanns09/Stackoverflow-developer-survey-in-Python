@@ -16,7 +16,7 @@ Exploratory Data Analysis (EDA) is critically important in data analysis as it s
 ## Data Collection and Preparation
 Overview of the survey data - 
 Understand the structure and scale of the data collected in the Stack Overflow Developer Survey.
-Use a helper library, (https://github.com/JovianML/opendatasets), which contains a collection of curated datasets and provides a helper function for direct download.
+Use a helper library, (https://insights.stackoverflow.com/survey), which contains a collection of curated datasets and provides a helper function for direct download.
 
 Data cleaning and preprocessing steps - 
 Handling missing values: Techniques like imputation or removal of rows/columns with missing data ensure data completeness.
